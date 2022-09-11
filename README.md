@@ -1,5 +1,4 @@
 # Tracking-donations via Blockchain technology
-# Donate-Now
 # Introduction
 Organizations such as charities raise money for a purpose, but tracking their expenses is another story. Through Charity Navigator's API we were able to ingest data from thousands of IRS good standing organizations, which have been rated based on the given charity's financial health, accountability, and transparency indices. However, what the database does not include is the thousands of organizations claiming to be a charity, but are under investigation by the IRS. These organizations induce a lack of trust for donors, making fundraising much harder for good standing charities.
 
